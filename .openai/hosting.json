@@ -1,5 +1,6 @@
 {
-  "framework": "static",
-  "build_command": null,
-  "output_directory": "dist"
+  "project_id": "appgprj_6af36e7acf34819191a87f5910153c20",
+  "static": {
+    "directory": "dist"
+  }
 }
