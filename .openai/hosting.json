@@ -1,0 +1,5 @@
+{
+  "framework": "static",
+  "build_command": null,
+  "output_directory": "dist"
+}
